@@ -46,3 +46,13 @@ staff@test.test
 ```bash
 tourist@test.test
 ```
+
+For postman documentation please open link below
+```bash
+https://drive.google.com/drive/folders/1FBoybTAWYcdXdgwQa2Y1p0NNc17o1f9o?usp=sharing
+```
+
+Or you could use swagger
+```bash
+{your_url}/api
+```
