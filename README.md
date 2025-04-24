@@ -2,7 +2,8 @@
 
 ## Installation
 
-Install this project bun
+Install this project bun (recommended)
+If you don't have bun, install first using npm i -g bun
 
 ```bash
   git clone https://github.com/IlhamSetiaji/mlaku-mulu.git
